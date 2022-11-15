@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable-v24/button_resource.xml" value="0.186" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_home_photo_24.xml" value="0.1" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable-v24/ic_navi_contract_set.xml" value="0.15" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/bg_chat_receive.xml" value="0.1395" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/bg_chat_send.xml" value="0.1395" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/btn_chatbot.xml" value="0.1375" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/chatbot_icon.xml" value="0.1375" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/chatbot_resource.xml" value="0.186" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/contract_stroke.xml" value="0.166" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/custom_toast_shape.xml" value="0.186" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/google.xml" value="0.15" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1245" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.1875" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.15" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/img_chatbot.xml" value="0.264" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/img_waves.xml" value="0.16" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/kakao.xml" value="0.1" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/drawable/send_img.xml" value="0.1675" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/activity_chatbot.xml" value="0.2" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/activity_contract_add.xml" value="0.264" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.13852073535699017" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/activity_new_contract.xml" value="0.264" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/activity_set_image.xml" value="0.1" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/activity_sign_up.xml" value="0.13852073535699017" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/activity_splash.xml" value="0.13852073535699017" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/adapter_message_one.xml" value="0.13852073535699017" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/content_contract.xml" value="0.176" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/custom_toast_layout.xml" value="0.1" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/fragment_navi_chat_bot.xml" value="0.1" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/fragment_navi_contract_collection.xml" value="0.176" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/fragment_navi_home.xml" value="0.1" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/fragment_navi_setting.xml" value="0.2" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/item_contract.xml" value="0.1" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/recyclerview_item.xml" value="0.2" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/layout/test.xml" value="0.13852073535699017" />
+        <entry key="..\:/Program Files/AndroidStudioProjects/app/src/main/res/menu/navi_menu.xml" value="0.1" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable-v24/button_resource.xml" value="0.1375" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable-v24/ic_home_camera_24.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable-v24/ic_home_photo_24.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable-v24/ic_navi_contract_set.xml" value="0.133" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable-v24/ic_navi_home.xml" value="0.133" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable-v24/ic_navi_settings.xml" value="0.133" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable-v24/searchview_background.xml" value="0.133" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/bg_chat_receive.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/bg_chat_send.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/border_outline.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/btn_blue.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/btn_chatbot.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/btn_green.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/btn_stroke.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/chatbot_icon.xml" value="0.1615" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/chatbot_resource.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/contract_stroke.xml" value="0.1375" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/google.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/ic_baseline_check_box_24.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/ic_baseline_fact_check_24.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/ic_checked_background.xml" value="0.1615" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/ic_checked_foreground.xml" value="0.1615" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/img_waves.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/kakao.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/line_sample.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/round_corner.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/splash.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/drawable/square_background.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/activity_chatbot.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/activity_find_pass.xml" value="0.10371376811594203" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/activity_login.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/activity_main.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/activity_set_image.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/activity_set_result.xml" value="0.22" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/activity_splash.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/content_contract.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/fragment_navi_chat_bot.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/fragment_navi_contract_collection.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/fragment_navi_home.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/fragment_navi_setting.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/list_result.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/layout/my_row.xml" value="0.5" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/mipmap-anydpi-v26/ic_checked.xml" value="0.1" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/mipmap-anydpi-v26/ic_checked_round.xml" value="0.116" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1375" />
+        <entry key="..\:/Users/MinH/AndroidStudioProjects/tadaktadak-front/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.116" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/drawable/chatbot_icon.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/activity_chatbot.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/activity_set_result.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/adapter_message_one.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/content_contract.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/fragment_navi_chat_bot.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/fragment_navi_contract_collection.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/fragment_navi_home.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/tadaktadak-front-master/app/src/main/res/layout/fragment_navi_setting.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/Project/moon/app/src/main/res/layout/activity_new_contract.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/user/Desktop/project/moon/app/src/main/res/layout/activity_new_contract.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/user/Desktop/project/moon/app/src/main/res/layout/activity_set_image.xml" value="0.264" />
+        <entry key="..\:/Users/user/Desktop/project/moon/app/src/main/res/layout/activity_set_result.xml" value="0.2" />
+        <entry key="..\:/Users/user/Desktop/project/moon/app/src/main/res/layout/fragment_navi_chat_bot.xml" value="0.1921875" />
+        <entry key="..\:/Users/user/Desktop/project/moon/app/src/main/res/layout/fragment_navi_contract_collection.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/user/Desktop/project/moon/app/src/main/res/layout/recyclerview_item.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/user/Downloads/chatbot-master/app/src/main/res/layout/fragment_navi_chat_bot.xml" value="0.1921875" />
+        <entry key="..\:/fragment-activity/app/src/main/res/drawable/bg_chat_receive.xml" value="0.1" />
+        <entry key="..\:/fragment-activity/app/src/main/res/layout/activity_main.xml" value="0.28425925925925927" />
+        <entry key="..\:/fragment-activity/app/src/main/res/layout/activity_set_image.xml" value="0.25" />
+        <entry key="..\:/fragment-activity/app/src/main/res/layout/activity_splash.xml" value="0.21" />
+        <entry key="..\:/fragment-activity/app/src/main/res/layout/adapter_message_one.xml" value="0.18" />
+        <entry key="..\:/fragment-activity/app/src/main/res/layout/fragment_navi_chat_bot.xml" value="0.25" />
+        <entry key="..\:/fragment-activity/app/src/main/res/layout/fragment_navi_contract_collection.xml" value="0.36614583333333334" />
+        <entry key="..\:/fragment-activity/app/src/main/res/layout/fragment_navi_home.xml" value="0.14537037037037037" />
+        <entry key="..\:/fragment-activity/app/src/main/res/layout/fragment_navi_setting.xml" value="0.36614583333333334" />
+        <entry key="app/src/main/res/drawable-v24/button_resource.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable-v24/ic_home_camera_24.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable-v24/ic_home_photo_24.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable-v24/ic_navi_contract_set.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable-v24/ic_navi_home.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable-v24/ic_navi_settings.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable-v24/searchview_background.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/btn_blue.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/btn_green.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/btn_stroke.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/google.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/ic_baseline_check_box_24.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/kakao.xml" value="0.144" />
+        <entry key="app/src/main/res/drawable/splash.xml" value="0.144" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/layout/activity_set_image.xml" value="0.17074275362318841" />
+        <entry key="app/src/main/res/layout/activity_set_image2.xml" value="0.1546875" />
+        <entry key="app/src/main/res/layout/fragment_navi_home.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/menu/navi_menu.xml" value="0.15572916666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.144" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.144" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="androidx.annotation.WorkerThread" />
+      <item index="1" class="java.lang.String" itemvalue="androidx.room.Insert" />
+      <item index="2" class="java.lang.String" itemvalue="androidx.room.Query" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

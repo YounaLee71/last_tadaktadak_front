@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:orientation="vertical"
+
+    tools:context=".NaviHome">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/chatbot_resource">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp">
+
+            <TextView
+                android:id="@+id/handtext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/noto_sans_bold"
+                android:text="@string/Main_title"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:layout_marginLeft="75dp"/>
+
+            <TextView
+                android:id="@+id/contracttext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:fontFamily="@font/noto_sans_bold"
+                android:text="@string/highlight_title"
+                android:textColor="@color/white"
+                android:textSize="30sp" />
+        </LinearLayout>
+
+    <ImageView
+       android:layout_marginTop="30dp"
+        android:id="@+id/select_ImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="400dp"
+        android:src="@drawable/img_chatbot_v5"
+        android:scaleType="centerCrop"
+        android:layout_marginBottom="50dp"/>
+
+    </LinearLayout>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/waves" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_chatbotstart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_margin="20dp"
+        android:padding="20dp"
+        android:fontFamily="@font/nanum_gothic_bold"
+        android:background="@drawable/button_resource"
+        android:text="  챗봇 시작하기  "
+        android:textSize="12sp"
+        android:textColor="@color/white"/>
+
+
+
+</LinearLayout>

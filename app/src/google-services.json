@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828896329539",
+    "project_id": "tadaktadakt-front",
+    "storage_bucket": "tadaktadakt-front.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828896329539:android:82e6ee83d32301b9e8b9f6",
+        "android_client_info": {
+          "package_name": "ds.project.tadaktadakfront"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828896329539-bbmfdr08pb81kee2u4t53dbkciafcpbi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ds.project.tadaktadakfront",
+            "certificate_hash": "a2497258f8d908feaf65c1324f17dd1ef19e724b"
+          }
+        },
+        {
+          "client_id": "828896329539-ljk2cemp0dsj3pj77nut5872ifvkike8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEN-I_DWq5Hr2nI9Hte7L5AoW3iKbFI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828896329539-ljk2cemp0dsj3pj77nut5872ifvkike8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

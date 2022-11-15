@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">tadaktadak_front</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Main_title">내 손안의</string>
+    <string name="highlight_title">근로계약서</string>
+    <string name="search">내 계약서 검색하기</string>
+
+    <string name="addcamera">카메라로 추가하기</string>
+    <string name="addphoto">갤러리로 추가하기</string>
+    <string name="selectimg">이미지 선택하기</string>
+    <string name="setimage_activity_text">인식된 텍스트를 나타내시오</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="ask_permission_title">권한이 필요합니다!</string>
+    <string name="ask_permission_storage">파일 권한이 필요합니다!\n근로내역의 리스트가 담긴 파일을 저장하는 데 이용됩니다.</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">저장하기</string>
+    <string name="button_check">판별하기</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="add_word">Add word</string>
+
+    <string name="underage">가족관계 증명서,\n취직인허증이 꼭 필요합니다.</string>
+    <string-array name="okornot">
+        <item>alert</item>
+        <item>check</item>
+    </string-array>
+
+    <string-array name="evaluation">
+        <item>연장근로</item>
+        <item>근로시간 초과</item>
+        <item>정규직</item>
+        <item>비정규직</item>
+        <item>프리랜서</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>연장근로입니다.</item>
+        <item>근로시간 초과입니다.</item>
+        <item>정규직으로 보입니다.</item>
+        <item>비정규직으로 보입니다.</item>
+        <item>프리랜서로 보입니다.</item>
+    </string-array>
+
+</resources>
